@@ -110,6 +110,7 @@ for label in labels:
     print(label, entities)
 ```
 
+### Project
 
 After learning it, I worked on a project titled 'Extracting Information from Documents,' referring to YouTube. The channel name is 'NLP and CSS 201: Beyond the Basics.'
 [youtube link](https://youtu.be/sUtthdcPyhc?si=niYdCKxDWglAZ9PL)
