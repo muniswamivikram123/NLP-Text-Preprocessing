@@ -5,5 +5,10 @@ I learned text preprocessing from the article 'SPACY for Beginners - NLP' on the
 
 [SPACY for Beginners -NLP](https://blog.ekbana.com/nlp-for-beninners-using-spacy-6161cf48a229)
 
+'''python
+import spacy
+nlp = spacy.load("en_core_web_sm")
+'''
+
 After learning it, I worked on a project titled 'Extracting Information from Documents,' referring to YouTube. The channel name is 'NLP and CSS 201: Beyond the Basics.'
 [youtube link](https://youtu.be/sUtthdcPyhc?si=niYdCKxDWglAZ9PL)
