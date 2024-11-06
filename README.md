@@ -1,5 +1,7 @@
 # NLP-Text-Preprocessing
 
+## SpaCy
+
 ## How did I learn text preprocessing?
 I learned text preprocessing from the article 'SPACY for Beginners - NLP' on the Medium platform, created by Pema Grg. It was easy to understand, and I referred to it to improve my skills.
 
